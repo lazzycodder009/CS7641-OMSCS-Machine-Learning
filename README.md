@@ -12,5 +12,7 @@ This assignment has 2 notebooks, one for each  data set. To run the notebooks fo
 1. Open a jupyter notebook instance, after downloading and unzipping the entire folder assignment-1.
 2. CS7641-Assignment-1-Census-Income.ipynb for census income dataset analysis, CS7641-Assignment-1-CDC-Diabetes.ipynb for cdc diabetes indicator dataset.
 3. Both notebooks require installation of ucimlrepo package, for downloading the dataset from repository.
-4.once the data is downloaded, you can run code by selecting the cell and click Run button. 
+4.once the data is downloaded, you can run code by selecting the cell and click Run button.
+link to jupyternotebook
+
 
